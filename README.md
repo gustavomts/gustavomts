@@ -1,7 +1,7 @@
 👋 Hi, I’m Gustavo Aires
 - 👀 I’m interested in everything new haha I really like learning anything that can make my life easier and my projects better
 - 📱 I’m currently working as Mobile Tech Lead using React Native every single day (💙)
-- 👨‍💻 I have already worked on some really cool projects (foodtech, vehicle tracking) using all kinds of tools like Java, NodeJS, Angular, React, GraphQL, Python, Azure, GPC and more
+- 👨‍💻 I have already worked on some really cool projects (foodtech, vehicle tracking) using all kinds of tools like Java, NodeJS, Angular, React, RabbitMQ, GraphQL, Python, Azure, GPC and more
 
 ##
 
