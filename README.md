@@ -1,7 +1,7 @@
 👋 Hi, I’m Gustavo Aires
 - 👀 I’m interested in everything new haha I really like learning anything that can make my life easier and my projects better
 - 📱 I’m currently working as Mobile Tech Lead using React Native every single day (💙)
-- 👨‍💻 I’m have already worked on some really cool projects (foodtech, vehicle tracking) using all kinds of tools like Java, NodeJS, Angular, React, GraphQL, Python, Azure, GPC and more
+- 👨‍💻 I have already worked on some really cool projects (foodtech, vehicle tracking) using all kinds of tools like Java, NodeJS, Angular, React, GraphQL, Python, Azure, GPC and more
 
 ##
 
@@ -33,4 +33,6 @@
  	<a href="https://www.twitch.tv/gustavomtsa" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-aires-2708b973" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+  
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
